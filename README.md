@@ -3,4 +3,4 @@ Java Calculator by using combobox
 
 
 
-![SCR-20230228-s30](https://user-images.githubusercontent.com/116418444/222176235-bad78b06-e7a3-4217-a08a-f18a151b11d8.png)
+<img width="512" alt="SCR-20230301-cdu" src="https://user-images.githubusercontent.com/116418444/222176963-b3142124-4781-43a7-b018-b5e1c1db54ac.png">
